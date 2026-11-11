@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://amrazouz.com">
-    <img src="https://img.shields.io/badge/Portfolio-amrazouz.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/amrazouz.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/amr-azouz-68ab89299/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
